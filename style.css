@@ -1,5 +1,6 @@
 body{
     font-family: 'Bebas Neue', cursive;
+    margin: 0;
 }
 h1{
     font-size: 50px;
@@ -27,14 +28,46 @@ h4{
 }
 section{
     height: 400px;
-    padding-bottom: 500px;
+    padding-bottom: 100px;
 }
 p{
     font-size: x-large;
     color: dimgray;
 }
-#big-box{
-    width: 10px;
-    height: 10px;
-    border: 5px solid black;
+.center{
+    text-align: center;
+    padding: 60px;
+}
+.project-part{
+    background-color: rgb(240, 240, 240);
+    height: 650px;
+}
+.container{
+    width: 100%;
+    height: auto;
+}
+.box{
+    width: 25%;
+    height: 374px;
+    background: #F8F9FC;
+    float: left;
+    margin-left: 4%;
+    border-radius: 8%;
+}
+.image{
+    width: 343.54px;
+    height: 213.23px;
+    padd
+}
+h2{
+    font-size: 50px;
+}
+img{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.lust{
+    padding: 40px;
 }
